@@ -87,7 +87,7 @@ public class grpStacks2 {
         System.out.println("number_output = " + number_output);
         
         String int_output = input_string.replaceAll("[^0-9]", " ");
-        System.out.println("BOBO" + int_output);
+        System.out.println("Test" + int_output);
         
         input_string = input_string.replaceAll("[^A-Za-z]", "");
         System.out.println(input_string);*/
